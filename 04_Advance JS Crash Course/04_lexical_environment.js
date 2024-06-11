@@ -1,0 +1,1 @@
+// Lexical environment is a list where the things are stored that a particular function can access. It contains it's scope and scope chain.
